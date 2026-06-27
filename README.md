@@ -51,7 +51,7 @@ I'm following a structured learning path across 4 phases:
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Mee
 
 - LinkedIn: [Shahzaib Tauqeer](https://www.linkedin.com/in/shahzaib-tauqeer)
 
