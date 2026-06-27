@@ -1,9 +1,16 @@
 # cybersecurity-journey
-Documenting my 2-year journey from beginner to cybersecurity professional, building toward an IT Security Ausbildung in Germany.
+
+Documenting my journey from beginner to cybersecurity professional — 
+building real, hands-on skills in IT security, SOC analysis, 
+penetration testing, and red teaming.
+
+---
+
 # Hi, I'm Shahzaib Tauqeer 👋
 
-🎯 **Goal:** Building real cybersecurity skills over 2 years to qualify for an 
-IT Security / SOC / Penetration Testing Ausbildung (apprenticeship) in Germany.
+🎯 **Goal:** Building real cybersecurity skills through consistent, 
+hands-on learning — networking, Linux, ethical hacking, penetration 
+testing, and red teaming fundamentals.
 
 📍 Currently: College student, self-teaching cybersecurity from the ground up.
 
@@ -11,14 +18,13 @@ IT Security / SOC / Penetration Testing Ausbildung (apprenticeship) in Germany.
 
 ## 🗺️ My Roadmap
 
-I'm following a structured 24-month roadmap across 4 phases:
+I'm following a structured learning path across 4 phases:
 
-- **Phase 1 (Months 1–6):** IT Foundations — Networking, Linux, Windows, 
-  Security+ certification
-- **Phase 2 (Months 7–12):** SOC Analyst skills + Web Security — eJPT certification
-- **Phase 3 (Months 13–18):** Penetration Testing + Active Directory attacks
-- **Phase 4 (Months 19–24):** Red Team fundamentals, OSCP prep, German language 
-  to B1, Ausbildung applications
+- **Phase 1:** IT Foundations — Networking, Linux, Windows, Security+ 
+  certification
+- **Phase 2:** SOC Analyst skills + Web Security — eJPT certification
+- **Phase 3:** Penetration Testing + Active Directory attacks
+- **Phase 4:** Red Team fundamentals, OSCP prep, advanced specialization
 
 ---
 
@@ -39,9 +45,9 @@ I'm following a structured 24-month roadmap across 4 phases:
 
 ## 📜 Certifications
 
-- [ ] CompTIA Security+ — *Target: Month 6*
-- [ ] eJPT — *Target: Month 12*
-- [ ] OSCP — *Target: Month 22–24*
+- [ ] CompTIA Security+
+- [ ] eJPT
+- [ ] OSCP
 
 ---
 
@@ -53,4 +59,4 @@ I'm following a structured 24-month roadmap across 4 phases:
 
 *"The quieter you become, the more you are able to hear." — Kali Linux*
 
-⭐ This profile updates weekly as I progress through my roadmap.
+⭐ This profile updates weekly as I progress through my journey.
